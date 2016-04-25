@@ -1,0 +1,4 @@
+1455812018,user5,http://ru.wikipedia.org,100
+1455812018,user12,http://ru.wikipedia.org,1000
+1455812018,user20,http://ru.wikipedia.org,1000
+1455812018,user40,http://ru.wikipedia.org,1000
